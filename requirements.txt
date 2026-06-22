@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision
+tqdm
+numpy
+matplotlib
+wandb
+# For future SNN experiments
+# snntorch
