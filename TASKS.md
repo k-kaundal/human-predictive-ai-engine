@@ -1,0 +1,1 @@
+Full content of TASKS.md as created locally. Detailed phased task list from start to end.
